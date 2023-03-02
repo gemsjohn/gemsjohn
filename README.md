@@ -2,7 +2,7 @@
 Passionate full-stack developer with a knack for building addictive mobile games. After completing a Full Stack Development boot camp, I honed my skills by building web apps. But I wanted to challenge myself further, so I dove into the world of mobile game development. In just two months, I created two games, WordLit and Cosmic Scramble, and successfully deployed them to Google Play. I'm constantly pushing myself to explore new technologies and techniques, and I'm always excited to tackle the next big project. 
 
 ## :point_right: Mobile Development Portfolio 
-### :snowflake: Private repositories
+### :snowflake: Private repositories.
 :boom: **Frontend Tech Stack:** React Native, Expo, Google Play Console
 
 :boom: **Backend Tech Stack:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku
