@@ -27,7 +27,7 @@ Passionate full-stack developer with a knack for building addictive mobile games
 ---
 
 ## :point_right: Web Development Portfolio
-### :sunny: Publicly shared repositories.
+### :sunny: Public repositories.
 :boom: **Frontend Tech Stack:** React/JavaScript or Next.js/TypeScript
 
 :boom: **Backend Tech Stack:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku
