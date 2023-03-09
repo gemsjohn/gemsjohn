@@ -11,13 +11,13 @@ Passionate full-stack developer with a knack for building addictive mobile games
   <tr>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.WordLit">
-        <img src="https://user-images.githubusercontent.com/96096362/222331053-144f3e81-daa8-442f-b183-6029ad1e6a43.png" width="250" height="200" />
+        <img src="https://user-images.githubusercontent.com/96096362/222331053-144f3e81-daa8-442f-b183-6029ad1e6a43.png" width="250vw" />
         <p>WordLit on Google Play</p>
       </a>
     </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.cosmicscramble">
-        <img src="https://user-images.githubusercontent.com/96096362/222332366-96955cda-50da-4e8d-ad27-dfd774b2eb5b.png" width="250" height="200" />
+        <img src="https://user-images.githubusercontent.com/96096362/222332366-96955cda-50da-4e8d-ad27-dfd774b2eb5b.png" width="250vw" />
         <p>Cosmic Scramble on Google Play</p>
       </a>
     </td>
@@ -35,19 +35,19 @@ Passionate full-stack developer with a knack for building addictive mobile games
   <tr>
     <td>
       <a href="https://riley-games.vercel.app/home">
-        <img src="https://user-images.githubusercontent.com/96096362/222332566-72f3cd47-88c9-4229-9115-e3288da81695.png" width="270" height="200" />
+        <img src="https://user-images.githubusercontent.com/96096362/222332566-72f3cd47-88c9-4229-9115-e3288da81695.png" width="240vw" />
         <p>Riley Games Portal</p>
       </a>
     </td>
     <td>
       <a href="https://hextorgbapro.com/">
-        <img src="https://user-images.githubusercontent.com/96096362/222333079-39c8fa9f-823a-474e-a05b-e5a769169637.png" width="200" height="200" />
+        <img src="https://user-images.githubusercontent.com/96096362/222333079-39c8fa9f-823a-474e-a05b-e5a769169637.png" width="125vw" />
         <p>Color Converter & Palette Generator</p>
       </a>
     </td>
     <td>
       <a href="https://honestpatina.com/">
-        <img src="https://user-images.githubusercontent.com/96096362/222333787-b0281aa3-599f-4fa9-abc4-ea7c7d8e150d.png" width="200" height="200" />
+        <img src="https://user-images.githubusercontent.com/96096362/222333787-b0281aa3-599f-4fa9-abc4-ea7c7d8e150d.png" width="125vw" />
         <p>Digital Marketplace | Bitcoin Lightning</p>
       </a>
     </td>
