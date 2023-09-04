@@ -1,5 +1,5 @@
 # John Martin | Full Stack Developer (Mobile & Web) 👋
-Passionate full-stack developer with a knack for building addictive mobile games. After completing a Full Stack Development boot camp, I honed my skills by building web apps. But I wanted to challenge myself further, so I dove into the world of mobile game development. In just two months, I created two games, WordLit and Cosmic Scramble, and successfully deployed them to Google Play. I'm constantly pushing myself to explore new technologies and techniques, and I'm always excited to tackle the next big project. 
+Passionate full-stack developer. At one point I had several mobile applications deployed on Google Play but have since deactivated these applications for various reasons.
 
 ## :point_right: Mobile Development Portfolio 
 ### :snowflake: Private repositories.
@@ -9,6 +9,12 @@ Passionate full-stack developer with a knack for building addictive mobile games
 
 <table>
   <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.babyFoodTracker">
+        <img src="https://user-images.githubusercontent.com/96096362/222331053-144f3e81-daa8-442f-b183-6029ad1e6a43.png" width="250vw" />
+        <p>LittleBites: Baby Food Tracker</p>
+      </a>
+    </td>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.WordLit">
         <img src="https://user-images.githubusercontent.com/96096362/222331053-144f3e81-daa8-442f-b183-6029ad1e6a43.png" width="250vw" />
