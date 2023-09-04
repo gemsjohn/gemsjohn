@@ -10,7 +10,7 @@ Passionate full-stack developer. At one point I had several mobile applications 
 <table>
   <tr>
     <td>
-      <a href="https://play.google.com/store/apps/details?id=com.babyFoodTracker">
+      <a href="https://play.google.com/store/apps/details?id=com.WordLit">
         <img src="https://github.com/gemsjohn/gemsjohn/assets/96096362/fe70f321-711e-4a1d-be86-5498a0b48890" width="250vw" />
         <p>LittleBites: Baby Food Tracker</p>
       </a>
