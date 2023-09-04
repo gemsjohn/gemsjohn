@@ -26,7 +26,7 @@ Passionate full-stack developer. At one point I had several mobile applications 
         <img src="https://user-images.githubusercontent.com/96096362/222332366-96955cda-50da-4e8d-ad27-dfd774b2eb5b.png" width="250vw" />
         <p>Cosmic Scramble on Google Play</p>
       </a>
-      <p>Formerly known as WordWave</p>
+      <p>*Formerly known as WordWave</p>
     </td>
   </tr>
 </table>
