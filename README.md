@@ -11,7 +11,7 @@ Passionate full-stack developer. At one point I had several mobile applications 
   <tr>
     <td>
       <a href="https://play.google.com/store/apps/details?id=com.babyFoodTracker">
-        <img src="https://user-images.githubusercontent.com/96096362/222331053-144f3e81-daa8-442f-b183-6029ad1e6a43.png" width="250vw" />
+        <img src="https://play-lh.googleusercontent.com/gVjMZDz5vHg1EwpqrcaqZQYJ0CrgQu3bQSFGxupY6RsUw77tIGB42gkpCE4pyAYbcw=w526-h296-rw" width="250vw" />
         <p>LittleBites Baby Food Tracker</p>
       </a>
     </td>
