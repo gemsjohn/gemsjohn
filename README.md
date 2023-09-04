@@ -1,5 +1,5 @@
 # John Martin | Full Stack Developer (Mobile & Web) 👋
-Passionate full-stack developer. At one point I had several mobile applications deployed on Google Play but have since deactivated these applications for various reasons.
+Passionate full-stack developer. At one point I had several mobile applications deployed on Google Play but have since deactivated these applications for various reasons. Feel free to check out my pinned respositories if you are interested in building similar applications!
 
 ## :point_right: Mobile Development Portfolio 
 ### :snowflake: Private repositories.
