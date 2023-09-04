@@ -45,13 +45,6 @@ Passionate full-stack developer with a knack for building addictive mobile games
         <p>Color Converter & Palette Generator</p>
       </a>
     </td>
-    <td>
-      <a href="https://honestpatina.com/">
-        <img src="https://user-images.githubusercontent.com/96096362/222333787-b0281aa3-599f-4fa9-abc4-ea7c7d8e150d.png" width="125vw" />
-        <p>Digital Marketplace | Bitcoin Lightning</p>
-      </a>
-    </td>
-    
   </tr>
 </table>
 
