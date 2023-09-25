@@ -1,5 +1,31 @@
 # John Martin | Full Stack Developer (Mobile & Web) 👋
-Passionate full-stack developer. At one point I had several mobile applications deployed on Google Play but have since deactivated these applications for various reasons. Feel free to check out my pinned respositories if you are interested in building similar applications!
+Passionate full-stack developer.
+
+## :point_right: Web Development Portfolio
+:boom: **Frontend Tech Stack:** React/JavaScript or Next.js/TypeScript, CSS, React Bootstrap, or TailwindCSS
+
+:boom: **Backend Tech Stack:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku, IndexedDB
+<table>
+  <tr>
+    <td width="250rem">
+      <a href="https://www.storyarcai.com/">
+        <img src="https://github.com/gemsjohn/STORYARCAI/blob/main/public/wings_logo.png" width="250rem" />
+        <p>Story Arc AI</p>
+      </a>
+      <p>Story Arc is a dynamic storytelling tool that puts you in control of crafting unique adventures.</p>
+      <p>Leverages ChatGPT 3.5 Turbo.</p>
+    </td>
+    <td width="250rem">
+      <a href="https://hextorgbapro.com/">
+        <img src="https://github.com/gemsjohn/hextorgbapro_upgrade/blob/main/public/cycle.png" width="220rem" />
+        <p>Hex to RGBA Pro</p>
+      </a>
+      <p>Jump from Hex to RGBA to color palette. Use colors consistently across different platforms and systems, customize the appearance of colors, and work with the color model that is most convenient for you.</p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## :point_right: Mobile Development Portfolio 
 ### :snowflake: Private repositories.
@@ -32,27 +58,7 @@ Passionate full-stack developer. At one point I had several mobile applications 
 
 ---
 
-## :point_right: Web Development Portfolio
-### :sunny: Public repositories.
-:boom: **Frontend Tech Stack:** React/JavaScript or Next.js/TypeScript, React Bootstrap or TailwindCSS
 
-:boom: **Backend Tech Stack:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku
-<table>
-  <tr>
-    <td>
-      <a href="https://riley-games.vercel.app/home">
-        <img src="https://user-images.githubusercontent.com/96096362/222332566-72f3cd47-88c9-4229-9115-e3288da81695.png" width="240vw" />
-        <p>Riley Games Portal</p>
-      </a>
-    </td>
-    <td>
-      <a href="https://hextorgbapro.com/">
-        <img src="https://user-images.githubusercontent.com/96096362/222333079-39c8fa9f-823a-474e-a05b-e5a769169637.png" width="125vw" />
-        <p>Color Converter & Palette Generator</p>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <!--![screenshot_riley_games](https://user-images.githubusercontent.com/96096362/222329553-2cbb0b89-8e64-43e4-bfe4-c44009e08dd9.png)
