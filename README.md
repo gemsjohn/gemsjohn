@@ -1,5 +1,5 @@
 # John Martin | Full Stack Developer (Mobile & Web) 👋
-Passionate full-stack developer.
+Hey! I'm John and I love building digital experiences. 
 
 ## :point_right: Web Development Portfolio
 :boom: **Frontend Tech Stack:** React/JavaScript or Next.js/TypeScript, CSS, React Bootstrap, or TailwindCSS
@@ -28,7 +28,6 @@ Passionate full-stack developer.
 ---
 
 ## :point_right: Mobile Development Portfolio 
-### :snowflake: Private repositories.
 :boom: **Frontend Tech Stack:** React Native, Expo, Google Play Console
 
 :boom: **Backend Tech Stack:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku
