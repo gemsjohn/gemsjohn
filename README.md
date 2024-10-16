@@ -1,7 +1,7 @@
 # Hi, I'm John. 👋
 Check out my 3D portfolio on <a href="https://www.renderfiction.com/"> renderfiction.com</a>.
 
-![Demo Video](rf_demo_gif.gif)
+
 Made with Blender and Three.js.
 
 ## :point_right: Dev Experience
