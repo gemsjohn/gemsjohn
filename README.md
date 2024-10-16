@@ -1,7 +1,9 @@
 # Hi, I'm John. 👋
-Check out my 3D portfolio <a href="https://www.renderfiction.com/">Render Fiction</a>.
+Check out my 3D portfolio on <a href="https://www.renderfiction.com/"> renderfiction.com</a>.
 
-[DEMO](https://github.com/gemsjohn/render_fiction_animation_studio/blob/main/public/rf_demo.mp4)
+![Demo Video](rf_demo_gif.gif)
+Made with Blender and Three.js.
+
 ## :point_right: Dev Experience
 :boom: **Frontend:** HTML, CSS, Javascript, Typescript, React, React Native, Next.js, Three.js
 
