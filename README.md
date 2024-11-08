@@ -1,5 +1,4 @@
 # Hi, I'm John. 👋
-Check out my 3D portfolio at <a href="https://www.renderfiction.com/">renderfiction.com</a>.
 
 ![Demo Video](rf_demo2_gif.gif)
 
