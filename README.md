@@ -12,5 +12,5 @@
 **Three.js Editor / 3D Character Tester:** https://render-fiction-editor-app.vercel.app/<br>
 
 ## :point_right: Dev Experience
-:boom: **Frontend:** HTML, CSS, Javascript, Typescript, React, React Native, Next.js, Three.js<br>
+:boom: **Frontend:** HTML, CSS, Javascript, React, React Native, Next.js, Three.js<br>
 :boom: **Backend:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku<br>
