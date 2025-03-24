@@ -10,8 +10,8 @@
 :boom: **Backend:** Node.js, GraphQL/Apollo Server, MongoDB, Heroku
 
 ## :point_right: Social Media / Websites
-YouTube: https://www.youtube.com/@renderfictionanimation
-X: https://x.com/renderfiction
+YouTube: https://www.youtube.com/@renderfictionanimation<br>
+X: https://x.com/renderfiction<br>
 
 Portfolio: https://www.renderfiction.com/
 Three.js Editor / 3D Character Tester: https://render-fiction-editor-app.vercel.app/
