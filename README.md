@@ -10,10 +10,12 @@
 <br>
 <br>
 <img src="portal_pixie_banner.png" alt="Alt text" width="300"><br>
-**The 3D Linktree:** https://www.portalpixie.com/ <br>
+**"The 3D Linktree":** https://www.portalpixie.com/ <br>
 <br>
 <br>
+<img src="threejs_character_editor.png" alt="Alt text" width="300"><br>
 **Three.js Editor / 3D Character Tester:** https://render-fiction-editor-app.vercel.app/<br>
+<br>
 
 ## :point_right: Social Media
 **X:** https://x.com/renderfiction<br>
