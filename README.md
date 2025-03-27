@@ -8,7 +8,9 @@
 **YouTube:** https://www.youtube.com/@renderfictionanimation<br>
 **X:** https://x.com/renderfiction<br>
 
+![Portfolio Icon](x_banner_004.png) <be>
 **Portfolio:** https://www.renderfiction.com/<br>
+![3D Linktree Icon](portal_pixie_banner.png) <br>
 **The 3D Linktree:** https://www.portalpixie.com/
 **Three.js Editor / 3D Character Tester:** https://render-fiction-editor-app.vercel.app/<br>
 
