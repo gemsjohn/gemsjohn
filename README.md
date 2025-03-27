@@ -1,7 +1,6 @@
 # Hi, I'm John. 👋
 
-![Demo Video](rf_demo2_gif.gif)
-
+<img src="rf_demo2_gif.gif" alt="Alt text" width="400"><br>
 <i>Made with Blender and Three.js.</i>
 
 ## :point_right: Websites
