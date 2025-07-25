@@ -4,12 +4,12 @@
 <i>Made with Blender and Three.js.</i>
 
 ## :point_right: Websites
-<img src="x_banner_004.png" alt="Alt text" width="300"><br>
+<img src="https://www.renderfiction.com/assets/rf_card.jpg" alt="Alt text" width="300"><br>
 **Portfolio:** https://www.renderfiction.com/<br>
 <br>
 <br>
 <img src="https://www.fingerpaintapp.com/assets/finger_paint.jpg" alt="Alt text" width="300"><br>
-**"Finger Paint App":** https://www.fingerpaintapp.com/ <br>
+**Finger Paint App:** https://www.fingerpaintapp.com/ <br>
 <br>
 <br>
 
